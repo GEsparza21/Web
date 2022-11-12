@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+    body{
+        background: rgb(183,196,207);
+background: linear-gradient(90deg, rgba(183,196,207,1) 0%, rgba(238,227,203,1) 35%, rgba(215,192,174,1) 100%);
+font-size: 25pt;
+}
+
+    form{
+    background-color: #CBA0AE;
+    width: 360px;
+    border: 10px solid #B7C4CF;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin: 100px auto;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+    form input{
+    width: 280px;
+    height: 35px;
+    padding: 0px 10px;
+    margin: 10px 30px;
+    color:#000000;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+
+select{
+    width: 280px;
+    height: 35px;
+    padding: 0px 10px;
+    margin: 10px 30px;
+    color:#000000;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+}
+
+form h1{
+    text-align: center;
+    color: #000000;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+
+form button{
+    background: linear-gradient(to right,#196BCA ,#6433E0);
+ background-color: #196BCA;
+ color: #fff;
+ font-family: 'Source Code Pro', monospace;
+ padding: 10px 10px;
+ border: 0px solid #000;
+ border-radius: 10px;
+ display: inline-block;
+}
+
+form button:hover{
+    background: linear-gradient(to right,#5482d0 ,#7d5ee3);
+    background-color: #5482d0;
+}
+
+form button:active{
+    transform: scale(0.95);
+}
+

@@ -1,0 +1,33 @@
+body{
+background-image: url(img/imagen4.jpg);
+background-size: cover;
+font-family: Roboto;
+font-size: 14pt;
+text-align:center; 
+color: #EDBB99
+}
+h1{
+	font-family: Helvetica;
+	font-size: 40pt;
+	color: #A3E4D7 ;
+
+}
+
+h2{
+	font-family: Roboto;
+	font-size: 40pt;
+	color:#D7BDE2;
+}
+
+tr{
+	border-color:#D98880; 
+	color: white;
+}
+td{
+	background-color: #2980B9 ;
+}
+
+table{
+	border-color: #D98880;
+	border: 2px;
+}

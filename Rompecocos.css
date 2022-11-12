@@ -1,0 +1,65 @@
+body{
+    font-family: Century Gothic;
+    font-size: 35px;
+    color: rgb(6, 6, 6);
+    background: rgb(255,248,234);
+    background: radial-gradient(circle, rgba(255,248,234,1) 0%, rgba(158,118,118,1) 100%);
+    text-align: center;
+}
+
+td{
+    width:50px;
+}
+
+table{
+    text-align: center;
+}
+
+.diagonal{
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    border: 6px solid #24943A;
+     background-color: #D4EED1;
+}
+
+
+.vertical{
+position: absolute;
+right: 650px;
+top:150px;
+border: 6px solid #80558C;
+background-color: #AF7AB3;
+}
+
+.horizontal{
+position: absolute;
+left: 100px;
+top: 150px;
+border: 6px solid #E38B29;
+background-color: #FDEEDC;
+}
+
+.imposible{
+position: absolute;
+right:100px;
+top:450px;
+border: 6px solid #06283D;
+background-color: #256D85;
+}
+
+.espiral{
+position: absolute;
+right:650px;
+top:450px;
+border: 6px solid #FF731D;
+background-color: #EDEDED;
+}
+
+.caracol{
+position: absolute;
+left: 100px;
+top:450px;
+border: 6px solid #45d1bcf7;
+background-color: #c3eeee;
+}
